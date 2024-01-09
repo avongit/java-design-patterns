@@ -1,4 +1,9 @@
- 
+
+ok
+
+not ok
+=======
 new file may be no more needed
 lets think about this
 ok lets do it
+
